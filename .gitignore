@@ -1,0 +1,8 @@
+# ignore provisioned data directories
+data/
+tmp/
+# IDE files
+*.iml
+.vscode/
+# OS metadata
+.DS_Store

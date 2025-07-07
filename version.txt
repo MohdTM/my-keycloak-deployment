@@ -1,0 +1,1 @@
+Keycloak Quarkus Server Distribution - Version 26.0.7.redhat-00001
